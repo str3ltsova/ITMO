@@ -6,7 +6,7 @@ export default function Home() {
       <p className="text-caption font-semibold text-blue-500">
         ТЕХНИЧЕСКАЯ ГРАМОТНОСТЬ · СТАРТОВЫЙ ПРОЕКТ
       </p>
-      <h1 className="mt-5 text-display font-semibold">Сервис "Контекст"</h1>
+      <h1 className="mt-5 text-display font-semibold">Сервис Контекст</h1>
       <p className="mt-5 max-w-2xl text-body text-secondary">
         Проект запущен. Здесь появится ваш продукт: начните с идеи, прочитайте
         структуру и измените заголовок руками.
